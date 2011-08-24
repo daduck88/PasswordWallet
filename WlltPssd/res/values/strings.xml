@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wallet Password</string>
+    <string name="no_notes">No Passwords Yet</string>
+    <string name="menu_insert">Add Password</string>
+    <string name="menu_alter">Change Password</string>
+    <string name="menu_delete">Delete Password</string>
+    <string name="name">Name</string>
+    <string name="pssd">Password</string>
+    <string name="body">Description</string>
+    <string name="confirm">Confirm</string>
+    <string name="edit_pssd">Edit Password</string>
+    <string name="edit_user">Edit User</string>
+    <string name="create_user">Create User</string>
+    <string name="principal">Principal</string>
+    <string name="quest">Question</string>
+    <string name="answe">Answer</string>
+</resources>
