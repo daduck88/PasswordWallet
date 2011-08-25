@@ -22,7 +22,7 @@ public class UserEdit extends RoboActivity {
 
 	private String Answer;
 	//private String Question;
-
+	//Cambio en el archivo UserEdit para trabajar con el git giu
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);

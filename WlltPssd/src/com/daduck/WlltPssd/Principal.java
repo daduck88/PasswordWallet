@@ -29,6 +29,7 @@ public class Principal extends RoboActivity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		//mDbHelper = new DbAdapter(this);
+		//Cambio en el archivo principal para trabajar con el git giu
 		mDbHelper.open();
 
 		setContentView(R.layout.principal);
