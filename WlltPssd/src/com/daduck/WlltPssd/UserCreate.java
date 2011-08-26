@@ -22,6 +22,7 @@ public class UserCreate extends RoboActivity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		//mDbHelper = new DbAdapter(this);
+		//otro cambio desde GitForce
 		mDbHelper.open();
 
 		setContentView(R.layout.user_create);
