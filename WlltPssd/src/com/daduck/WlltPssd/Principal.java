@@ -30,6 +30,7 @@ public class Principal extends RoboActivity {
 		super.onCreate(savedInstanceState);
 		//mDbHelper = new DbAdapter(this);
 		//Cambio en el archivo principal para trabajar con el git giu
+		//cambio probando GitForce denuevo
 		mDbHelper.open();
 
 		setContentView(R.layout.principal);
